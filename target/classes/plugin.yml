@@ -1,0 +1,9 @@
+name: RareTrades
+version: Dev
+main: net.bnbdiscord.raretrades.Raretrades
+api-version: 1.13
+authors: [Max]
+description: Trade items for other items not regularly obtainable in survival
+commands:
+  trades:
+    description: Open the server trades menu
